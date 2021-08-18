@@ -1,0 +1,6 @@
+rootProject.name='InstantAppBundle'
+include ':app'
+include ':features:announcement'
+include ':features:aboutus'
+include ':features:instanturl'
+include ':features:instantsplit'

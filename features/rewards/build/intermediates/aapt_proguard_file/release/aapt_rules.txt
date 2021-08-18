@@ -1,0 +1,2 @@
+# Referenced at /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/build/intermediates/merged_manifests/release/AndroidManifest.xml:24
+-keep class com.example.dynamicfeature.RewardsActivity { <init>(); }

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InstantAppActivity"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/split_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Instant Url Demo"
+        android:textAllCaps="true"
+        android:textAppearance="@style/TradeGothic.Bold.XLarge"
+        android:textColor="@color/textColorPrimary" />
+
+    <TextView
+        android:id="@+id/split_body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="This is an Instant App from Url Demo"
+        android:textAppearance="@style/TextAppearance.Medium"
+        android:textColor="@color/textColorPrimary" />
+
+
+</LinearLayout>

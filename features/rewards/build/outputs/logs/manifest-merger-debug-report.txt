@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+		INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:6:5-13:19
+	dist:instant
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:7:9-29
+	dist:title
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:8:9-43
+dist:delivery
+ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:9:9-11:25
+dist:on-demand
+ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:10:13-30
+dist:fusing
+ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:12:9-45
+	dist:include
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:12:22-42
+application
+ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:15:5-21:19
+activity#com.example.dynamicfeature.RewardsActivity
+ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:16:9-20:20
+	android:name
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:16:19-50
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:17:13-19:29
+action#android.intent.action.VIEW
+ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml:18:25-66
+uses-sdk
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+		INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+		ADDED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
+		INJECTED from /Users/aradhakrishnaniye/Aishwarya/Android Studio/InstantAppBundle/features/rewards/src/main/AndroidManifest.xml
